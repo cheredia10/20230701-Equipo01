@@ -1,3 +1,7 @@
 GRUPO 1
 
-- CLAUDIA HEREDIA
+# David Méndez
+
+## México
+
+México :wink:
