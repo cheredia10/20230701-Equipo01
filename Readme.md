@@ -1,6 +1,6 @@
 GRUPO 1
 
-- #NADIA SORIA
-- ##URUGUAY
+- # NADIA SORIA
+- ## URUGUAY
 - URUGUAY :smile:
  
